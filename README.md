@@ -10,13 +10,6 @@
 4. **Multi-Modal Fusion:** The visual and textual vectors are concatenated and passed through a custom neural network head.
 5. **Output Generation:** The model predicts the most contextually accurate answer, which is then returned to the user via the chat interface.
 
----
-
-## 🤝 The Team (SIH 2025)
-
-* **[Your Name]** - *[Your Role - e.g., ML Engineer]* - [GitHub Profile Link]
-* **[Team Member 2]** - *[Their Role]* - [GitHub Profile Link]
-* **[Team Member 3]** - *[Their Role]* - [GitHub Profile Link]
 
 ---
 
