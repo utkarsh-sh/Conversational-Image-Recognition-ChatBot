@@ -127,10 +127,6 @@ streamlit run app.py
 
 ---
 
-## Project Contributors
-* **[Your Name]** - *Lead ML/Backend Engineer* - [LinkedIn](#) | [GitHub](#)
-* **[Teammate Name]** - *Data & Validation Engineer* - [LinkedIn](#) | [GitHub](#)
-* **[Teammate Name]** - *Frontend Integration* - [LinkedIn](#) | [GitHub](#)
 
 ---
 *Distributed under the MIT License. See `LICENSE` for more information.*
